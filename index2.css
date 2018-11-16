@@ -1,0 +1,9 @@
+body  {
+    background-image: url("payrollimg.jpg");
+    background-color: #cccccc;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+h1 {
+	color: blue;
+}
